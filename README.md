@@ -25,9 +25,6 @@ A **modern, responsive portfolio website** showcasing my skills, projects, and p
 - **Home:** Welcome section with introduction  
 - **About:** Professional background and skills  
 - **Skills:** Technical expertise and roles  
-  - Web Development  
-  - Blockchain Development  
-  - Tech Stack  
 - **Projects:** Showcase of recent work  
 - **Education:** Academic background and achievements  
 - **Contact:** Contact form with social media links
