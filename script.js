@@ -352,7 +352,7 @@ class ContactFormManager {
                 from_email: formData.get('email'),
                 subject: formData.get('subject'),
                 message: formData.get('message'),
-                // to_name: 'yamini', // Replace with your name
+                // to_name: 'manideep', // Replace with your name
             };
 
             // Send email using EmailJS
@@ -636,14 +636,14 @@ class SEOManager {
         const structuredData = {
             "@context": "https://schema.org",
             "@type": "Person",
-            "name": "yamini",
+            "name": "Manideep",
             "jobTitle": "Full Stack Developer",
             "description": "Experienced full-stack developer specializing in modern web technologies and blockchain development.",
             "url": window.location.origin,
             "sameAs": [
-                "https://github.com/johndoe",
-                "https://linkedin.com/in/johndoe",
-                "https://twitter.com/johndoe"
+                "https://github.com/Manideep1357",
+                "https://linkedin.com/in/damarla-manideep-8a1117238/",
+                "https://x.com/Manideep3693"
             ]
         };
         
@@ -656,7 +656,7 @@ class SEOManager {
 
 // Initialize SEO enhancements
 SEOManager.updateMetaTags(
-    'yamini - Full Stack Developer',
+    'Manideep - Full Stack Developer',
     'Experienced full-stack developer specializing in modern web technologies. View my portfolio and get in touch for your next project.'
 );
 SEOManager.addStructuredData();
